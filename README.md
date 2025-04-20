@@ -7,6 +7,7 @@
 📫 How to reach me: </br>
 carmenpcontact@gmail.com </br>
 [Linkedin](https://www.linkedin.com/in/carmen-p-perez-contreras-358527349/) </br>
+[InfoJobs](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=5197729824048498807) </br>
 
 
 # 💻 Tech Stack:
