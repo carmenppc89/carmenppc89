@@ -5,8 +5,7 @@
 🕹 Casually volunteering on colleagues projects. </br>
 
 ### 📫 How to reach me: </br>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carmenpcontact@gmail.com) </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carmenppc89) </br>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carmenpcontact@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carmenppc89) </br>
 <!--[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)] (https://dury-89.itch.io/) </br> -->
 <!--[![InfoJobs]()](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=5197729824048498807) </br> -->
 
@@ -31,10 +30,11 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carmenppc89&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=carmenppc89&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=carmenppc89&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=carmenppc89&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+![](https://github-readme-stats.vercel.app/api?username=carmenppc89&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=carmenppc89&theme=dark&hide_border=false) <br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+_________________
 
-That fluffy Rorschach's test name's Brocoli.  </br>
+> That Rorschach test covered in fluff is named "Brocoli".  </br>
