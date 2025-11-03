@@ -1,8 +1,8 @@
 # Hi, I'm Carmen 👋
 
-💻 Junior VideoGame and .Net Developer </br>
-🐰 vs. 🎣 Juggling between rewriting GDD for the rabbit cafe game and rekindling my first serious Unity 2D project. </br>
-🕹 Casually volunteering on colleagues projects. </br>
+&emsp;💻&emsp;&emsp;Junior VideoGame and .Net Developer </br>
+🐰 / 🎣&emsp;Juggling between rewriting GDD for the rabbit cafe game and rekindling my first serious Unity 2D project. </br>
+&emsp;🕹&emsp;&emsp;Casually volunteering on colleagues projects. </br>
 
 ### 📫 How to reach me: </br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carmenpcontact@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carmenppc89) </br>
