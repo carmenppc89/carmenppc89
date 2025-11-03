@@ -1,7 +1,7 @@
 # Hi, I'm Carmen 👋
 
 💻 Junior VideoGame and .Net Developer </br>
-🐰 Currently working on rewriting my GDD for a 2D Android Game about a bunny managing a restaurant for other bunnies. </br>
+🐰 vs. 🎣 Juggling between rewriting GDD for the rabbit cafe game and rekindling my first serious Unity 2D project. </br>
 🕹 Casually volunteering on colleagues projects. </br>
 
 ### 📫 How to reach me: </br>
