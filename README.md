@@ -1,4 +1,7 @@
 # Hi, I'm Carmen 👋
+<!--<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="carmenppc89" data-version="v1">
+<a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/carmenppc89?trk=profile-badge">Carmen P. Perez Contreras</a></div>-->
 
 &emsp;💻&emsp;&emsp;Junior VideoGame and .Net Developer </br>
 🐰 / 🎣&emsp;Juggling between rewriting GDD for the rabbit cafe game and rekindling my first serious Unity 2D project. </br>
@@ -6,6 +9,7 @@
 
 ### 📫 How to reach me: </br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carmenpcontact@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carmenppc89) </br>
+[![LinkedIn](https://es.linkedin.com/in/carmenppc89?trk=profile-badge)](https://linkedin.com/in/carmenppc89) </br>
 <!--[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)] (https://dury-89.itch.io/) </br> -->
 <!--[![InfoJobs]()](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=5197729824048498807) </br> -->
 
